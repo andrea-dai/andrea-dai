@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @andrea-dai
-- 👀 I’m interested in hicking, travelling and cooking
-- ✨ I graduated from WBS Conding School in Berlin as a data scientist
+- 👀 I’m interested in hicking, travelling and coding 😄
+- ✨ I graduated from WBS Coding School Berlin as a data scientist on 11.2022, and I am also a PhD in Biology
 - 🌱 I’m currently seeking a job as  Data Scientist
+- 👄 I speak Chinese, English and German
 - 📫 guoyingdai@gmail.com
 
 <!---
