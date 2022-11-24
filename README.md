@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @andrea-dai
 - 👀 I’m interested in hicking, travelling and cooking
+- ✨ I graduated from WBS Conding School in Berlin as a data scientist
 - 🌱 I’m currently seeking a job as  Data Scientist
 - 📫 guoyingdai@gmail.com
 
